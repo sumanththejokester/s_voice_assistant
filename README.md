@@ -2,7 +2,10 @@
 
 Voice Assistant able to generate ChatGPT response as speech and generate Dall_E image on Speech input
 
+
 "A new Flutter project."
+
+![Screenshot_20230902-010942 1](https://github.com/sumanththejokester/s_voice_assistant/assets/95573292/42d1affa-d7fb-4a32-83c3-f56787e2c9c9)
 
 ## Getting Started
 
