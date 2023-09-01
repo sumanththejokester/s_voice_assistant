@@ -1,5 +1,7 @@
 # s_voice_assistant
 
+Voice Assistant able to generate ChatGPT response as speech and generate Dall_E image on Speech input
+
 "A new Flutter project."
 
 ## Getting Started
